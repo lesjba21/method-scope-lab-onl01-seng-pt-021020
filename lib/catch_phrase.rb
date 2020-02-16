@@ -1,6 +1,6 @@
-require "spec_helper"
+# require "spec_helper"
 
-def catch_phrase(phrase)
-  puts "#{phrase}"
+def catch_phrase
+  puts phrase
   
 end
