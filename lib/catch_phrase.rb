@@ -1,3 +1,3 @@
-def catch_phrase
+requedef catch_phrase
   puts phrase
 end
