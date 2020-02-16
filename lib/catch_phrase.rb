@@ -1,7 +1,3 @@
-require "spec_helper"
-
-def catch_phrase(spec_helper)
-  phrase = "spec_helper"
+def catch_phrase
   puts phrase
-  
 end
